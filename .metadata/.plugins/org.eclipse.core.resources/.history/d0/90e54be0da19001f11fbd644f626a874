@@ -1,0 +1,5 @@
+package com.apica.user.repository;
+
+public class UserRepository {
+
+}

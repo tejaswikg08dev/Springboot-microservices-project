@@ -1,0 +1,4 @@
+package com.apica.journal.repository;
+
+public interface JournalRepository extends JpaRepository<Journal, Long> {
+}

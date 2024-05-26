@@ -1,0 +1,5 @@
+package com.apica.user.entity;
+
+public class User {
+
+}

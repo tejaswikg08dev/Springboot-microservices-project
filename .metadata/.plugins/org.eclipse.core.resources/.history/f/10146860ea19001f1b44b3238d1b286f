@@ -1,0 +1,5 @@
+package com.apica.journal.service;
+
+public class JournalService {
+
+}

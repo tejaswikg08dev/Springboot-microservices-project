@@ -1,0 +1,5 @@
+package com.apica.journal.controller;
+
+public class JournalController {
+
+}
